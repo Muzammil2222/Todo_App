@@ -1,0 +1,54 @@
+.main-div {
+    border-radius: 6px;
+    padding: 25px;
+    box-shadow: 2px 4px 22px -6px gray;
+    margin: 0 auto !important;
+    width: 20%;
+}
+button#delete_all_todo_btn {
+    width: 254px;
+    cursor: pointer;
+    border-radius: 10px;
+    border: none !important;
+    margin-top: 10px;
+    padding: 10px;
+}
+input#todo_input {
+    padding: 8px;
+    border-radius: 8px;
+}
+button#add_todo_btn {
+    padding: 10px;
+    border: none !important;
+    border-radius: 8px !important;
+}
+ul#todo_list{
+    width: 254px;
+    cursor: pointer;
+    border-radius: 10px;
+    border: none !important;
+    margin-top: 10px;
+    padding: 10px;
+}
+ul#todo_list {
+    font-family: arial !important;
+    list-style: auto;
+    margin: 0 auto !important;
+    width: 254px;
+    cursor: pointer;
+    border-radius: 10px;
+    border: none !important;
+    margin-top: 10px;
+    padding: 10px;
+}
+ul#todo_list li {
+    margin-bottom: 5px !important;
+    padding-bottom: 5px !important;
+    border-bottom: 1px solid lightgrey;
+}
+button.btn {
+    border: none !important;
+    padding: 10px 25px;
+    cursor: pointer;
+    border-radius: 10px !important;
+}
